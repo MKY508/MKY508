@@ -1,4 +1,4 @@
-## Hey, I'm Kai 👋
+## Hey, I'm MoonMao 👋
 
 Chemistry undergrad pivoting to CS. I like building tools that make data accessible.
 
