@@ -4,9 +4,9 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 
 ### What I'm working on
 
-- **[QueryGPT](https://github.com/MKY508/QueryGPT)** — Natural language database queries with auto-generated SQL, Python & charts
-- **[mcp-cn-a-stock](https://github.com/MKY508/mcp-cn-a-stock)** — MCP server for Chinese A-share market data
-- **[dotfiles](https://github.com/MKY508/dotfiles)** — My macOS dev environment config (Neovim, zsh, etc.)
+- **[QueryGPT](https://github.com/MoonMao42/QueryGPT)** — Natural language database queries with auto-generated SQL, Python & charts
+- **[mcp-cn-a-stock](https://github.com/MoonMao42/mcp-cn-a-stock)** — MCP server for Chinese A-share market data
+- **[dotfiles](https://github.com/MoonMao42/dotfiles)** — My macOS dev environment config (Neovim, zsh, etc.)
 
 ### Stack 
 
@@ -20,10 +20,10 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MKY508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKY508&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonMao42&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKY508&theme=tokyonight&hide_border=true" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonMao42&theme=tokyonight&hide_border=true" width="500" />
 
 ---
 
