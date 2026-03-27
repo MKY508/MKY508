@@ -5,15 +5,12 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 ### What I'm working on
 
 - **[QueryGPT](https://github.com/MoonMao42/QueryGPT)** — Natural language database queries with auto-generated SQL, Python & charts
-- **[mcp-cn-a-stock](https://github.com/MoonMao42/mcp-cn-a-stock)** — MCP server for Chinese A-share market data
-- **[dotfiles](https://github.com/MoonMao42/dotfiles)** — My macOS dev environment config (Neovim, zsh, etc.)
+- **[dotfiles](https://github.com/MoonMao42/dotfiles)** — My macOS dev environment config 
 
 ### Open source contributions
 
 [![Contributor · swift-syntax](https://img.shields.io/badge/Contributor-swiftlang%2Fswift--syntax-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/swiftlang/swift-syntax/pull/3299)
 [![Contributor · linearmouse](https://img.shields.io/badge/Contributor-linearmouse%2Flinearmouse-0A84FF?style=flat-square&logo=github&logoColor=white)](https://github.com/linearmouse/linearmouse/pull/1101)
-[![Featured · awesome-data-engineering](https://img.shields.io/badge/Featured-awesome--data--engineering-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/igorbarinov/awesome-data-engineering/pull/189)
-[![Featured · chinese-independent-developer](https://img.shields.io/badge/Featured-chinese--independent--developer-E34F26?style=flat-square&logo=github&logoColor=white)](https://github.com/1c7/chinese-independent-developer/pull/584)
 
 ### Stack 
 
