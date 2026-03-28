@@ -21,14 +21,16 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Stats
+### GitHub
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MoonMao42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonMao42&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Followers](https://img.shields.io/github/followers/MoonMao42?style=flat-square&logo=github&label=Followers)](https://github.com/MoonMao42?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-31-181717?style=flat-square&logo=github)](https://github.com/MoonMao42?tab=repositories)
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs-11-0A84FF?style=flat-square&logo=git)](https://github.com/pulls?q=is%3Apr+author%3AMoonMao42+is%3Amerged)
+[![Stars](https://img.shields.io/badge/Repo%20Stars-31-F5B301?style=flat-square&logo=github)](https://github.com/MoonMao42?tab=repositories&sort=stargazers)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonMao42&theme=tokyonight&hide_border=true" width="500" />
+- [Contribution activity](https://github.com/MoonMao42)
+- [Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AMoonMao42+is%3Amerged)
+- [All repositories](https://github.com/MoonMao42?tab=repositories)
 
 ---
 
