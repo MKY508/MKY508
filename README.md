@@ -5,15 +5,15 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 ### What I'm working on
 
 - **[QueryGPT](https://github.com/MoonMao42/QueryGPT)** — Natural language database queries with auto-generated SQL, Python & charts
-- **[dotfiles](https://github.com/MoonMao42/dotfiles)** — My macOS dev environment config 
+- **[dotfiles](https://github.com/MoonMao42/dotfiles)** — My macOS dev environment config
 
 ### Open source contributions
 
 [![Contributor · swift-syntax](https://img.shields.io/badge/Contributor-swiftlang%2Fswift--syntax-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/swiftlang/swift-syntax/pull/3299)
 [![Contributor · linearmouse](https://img.shields.io/badge/Contributor-linearmouse%2Flinearmouse-0A84FF?style=flat-square&logo=github&logoColor=white)](https://github.com/linearmouse/linearmouse/pull/1101)
-[![Contributor · open-spaced-repetition/fsrs4anki-helper](https://img.shields.io/badge/Contributor-open-spaced-repetition%2Ffsrs4anki-helper-0085ff?style=flat-square&logo=github&logoColor=white)
+[![Contributor · open-spaced-repetition/fsrs4anki-helper](https://img.shields.io/badge/Contributor-open-spaced-repetition%2Ffsrs4anki-helper-0085ff?style=flat-square&logo=github&logoColor=white)](https://github.com/open-spaced-repetition/fsrs4anki-helper/pull/646)
 
-### Stack 
+### Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
