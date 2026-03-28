@@ -18,11 +18,6 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 
 ### GitHub
 
-[![Followers](https://img.shields.io/github/followers/MoonMao42?style=flat-square&logo=github&label=Followers)](https://github.com/MoonMao42?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-31-181717?style=flat-square&logo=github)](https://github.com/MoonMao42?tab=repositories)
-[![Merged PRs](https://img.shields.io/badge/Merged%20PRs-11-0A84FF?style=flat-square&logo=git)](https://github.com/pulls?q=is%3Apr+author%3AMoonMao42+is%3Amerged)
-[![Stars](https://img.shields.io/badge/Repo%20Stars-31-F5B301?style=flat-square&logo=github)](https://github.com/MoonMao42?tab=repositories&sort=stargazers)
-
 - [Contribution activity](https://github.com/MoonMao42)
 - [Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AMoonMao42+is%3Amerged)
 
