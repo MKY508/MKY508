@@ -7,11 +7,6 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 - **[QueryGPT](https://github.com/MoonMao42/QueryGPT)** — Natural language database queries with auto-generated SQL, Python & charts
 - **[dotfiles](https://github.com/MoonMao42/dotfiles)** — My macOS dev environment config
 
-### Open source contributions
-
-[![Contributor · swift-syntax](https://img.shields.io/badge/Contributor-swiftlang%2Fswift--syntax-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/swiftlang/swift-syntax/pull/3299)
-[![Contributor · linearmouse](https://img.shields.io/badge/Contributor-linearmouse%2Flinearmouse-0A84FF?style=flat-square&logo=github&logoColor=white)](https://github.com/linearmouse/linearmouse/pull/1101)
-[![Contributor · fsrs4anki-helper](https://img.shields.io/badge/Contributor-fsrs4anki--helper-0085ff?style=flat-square&logo=github&logoColor=white)](https://github.com/open-spaced-repetition/fsrs4anki-helper/pull/646)
 
 ### Stack
 
@@ -30,7 +25,6 @@ Chemistry undergrad pivoting to CS. I like building tools that make data accessi
 
 - [Contribution activity](https://github.com/MoonMao42)
 - [Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AMoonMao42+is%3Amerged)
-- [All repositories](https://github.com/MoonMao42?tab=repositories)
 
 ---
 
