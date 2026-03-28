@@ -1,7 +1,5 @@
 ## Hey, I'm MoonMao 👋
 
-Chemistry undergrad pivoting to CS. I like building tools that make data accessible.
-
 ### What I'm working on
 
 - **[QueryGPT](https://github.com/MoonMao42/QueryGPT)** — Natural language database queries with auto-generated SQL, Python & charts
